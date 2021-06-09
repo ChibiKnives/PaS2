@@ -1,3 +1,11 @@
 displayName = PaS2
+
 author = The Gang
+
 version = 0.1
+
+hideCode = false
+hideResources = false
+
+includeSource = true
+includePDB = true
