@@ -1,1 +1,3 @@
-PaS2 is a pretty cool mod (is it) ((no)), it does...this. Modify this file with a description of your mod.
+PaS 2 is a complete rewrite and remake of the original PaS mod.
+A few goals have been set, most prominent of them being improving on the original PaS mod and making it fun to play with. 
+There's not much in this mod currently; this description will be updated as we add more.
